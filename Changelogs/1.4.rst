@@ -49,7 +49,7 @@ Changelog 📃 :
     - **waifu:** This plugin contains both NSFW & SFW content.
 
 
-Report Bugs and Suggestions in comments of `this post <https://t.me/NOBITADP_l>`_
+Report Bugs and Suggestions in comments of `this post <https://t.me/its_hellbot/66>`_
 =====================================================================================
 
 :Regards: * `@Nobi_1A <https://t.me/Nobi_1A>`_
